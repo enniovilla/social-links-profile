@@ -44,5 +44,11 @@ h2 {
     color: hsl(75, 94%, 57%);
     font-size: 14px;
     font-weight: 600;
-    margin-bottom: 20px;
+}
+
+p {
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    margin: 20px 0;
+    font-weight: 300;
 }
