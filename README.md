@@ -13,7 +13,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Overview
 
 - [Live Site URL](https://enniovilla.github.io/recipe-page/)
-- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-o8VKvVfrBG)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-rZmvOvHvRW)
 
 ![MyProject](./documentation/screenshot.png)
 
