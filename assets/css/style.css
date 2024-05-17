@@ -11,7 +11,7 @@
 
 body {
     background-color: hsl(0, 0%, 8%);
-    padding: 20px;
+    padding: 20px 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,6 +25,7 @@ body {
     padding: 20px;
     text-align: center;
     border-radius: 20px;
+    width: 90%;
 }
 
 img {
@@ -51,4 +52,14 @@ p {
     font-size: 14px;
     margin: 20px 0;
     font-weight: 300;
+}
+
+.social {
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 15px 0;
 }
