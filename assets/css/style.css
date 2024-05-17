@@ -83,3 +83,7 @@ footer a {
     text-decoration: none;
     color: hsl(75, 94%, 57%);
 }
+
+footer a:hover {
+    text-decoration: underline;
+}
